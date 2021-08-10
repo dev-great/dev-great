@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=greamhouseinc.com.ng&style=for-the-badge&url=https%3A%2F%2Fgreamhouse.herokuapp.com)](https://greamhouse.herokuapp.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/devop_great?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dev-great)
 
-## I'm a Web and Softwaer Developer, a melancholic and Teacher!!
+## I'm a Web and Softwaer Developer, a melancholic personality and Teacher!!
 
 - 🔭 I just launched my Portfolior website: [Avialable for hire!][course]!
 - 🌱 I’m currently learning everything 🤣
