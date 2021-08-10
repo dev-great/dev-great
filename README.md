@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Greatness - aka [dev-great][website] 👋
 
-[![Website](https://img.shields.io/website?label=greamhouseinc.com.ng&style=for-the-badge&url=https%3A%2F%2Fgreamhouseinc.com.ng)](http://greamhouseinc.com.ng/)
+[![Website](https://img.shields.io/website?label=greamhouseinc.com.ng&style=for-the-badge&url=https%3A%2F%2Fgreamhouse.herokuapp.com)](https://greamhouse.herokuapp.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/devop_great?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/dev-great)
 
 ## I'm a Web and Softwaer Developer, a melancholic and Teacher!!
