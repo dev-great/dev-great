@@ -1,7 +1,7 @@
-### Hi everyone, I'm Greatness - aka [dev-great][website] 👋
+### Hi everyone, I'm Greatness - aka [great_devxy][website] 👋
 
 [![Website](https://img.shields.io/website?label=greamhouseinc.com.ng&style=for-the-badge&url=https%3A%2F%2Fgreamhouse.herokuapp.com)](https://greamhouse.herokuapp.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/great_devxyt?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/great_devxy)
+[![Twitter Follow](https://img.shields.io/twitter/follow/great_devxy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/great_devxy)
 
 ## I'm a Web and Software Developer, a melancholic personality and Teacher!!
 
@@ -15,9 +15,9 @@
 
 [<img align="left" alt="greamhouseinc.com.ng" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="dev-great | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="dev-great | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="great_devxy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="dev-great | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="dev-great | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="great_devxy | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
