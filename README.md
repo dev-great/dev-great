@@ -6,9 +6,9 @@
 ## I'm a Web and Software Developer, a melancholic personality and Teacher!!
 
 - 🔭 I just launched my Portfolior website: [Avialable for hire!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning all i can
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to game and play guitar / explore
 
 ### Connect with me:
