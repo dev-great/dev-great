@@ -50,3 +50,5 @@
 [jsplaylist]: https://youtube.com/dev-great
 [cssplaylist]: https://youtube.com/dev-great
 [reactplaylist]: https://youtube.com/dev-great
+
+![dev-great GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-great&show_icons=true&theme=dark)
