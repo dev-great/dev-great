@@ -8,7 +8,7 @@
 - 🔭 I just launched my Portfolior website: [Avialable for hire!][course]!
 - 🌱 I’m currently learning all i can
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to game and play guitar / explore
 
 ### Connect with me:
