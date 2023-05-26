@@ -1,6 +1,6 @@
 ### Hi everyone, I'm Greatness - aka [great_devxy][website] 👋
 
-[![Website](https://img.shields.io/website?label=greatdev.xyz.ng&style=for-the-badge&url=https%3A%2F%2Fgreatdev.xyz)](https://greatdev.xyz/)
+[![Website](https://img.shields.io/website?label=greatdev.xyz&style=for-the-badge&url=https%3A%2F%2Fgreatdev.xyz)](https://greatdev.xyz/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/great_devxy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/great_devxy)
 
 ## I'm a Web and Software Developer, a melancholic personality and Teacher!!
