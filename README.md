@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=greatdev.xyz&style=for-the-badge&url=https%3A%2F%2Fgreatdev.xyz)](https://greatdev.xyz/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/great_devxy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/great_devxy)
 
-## I'm an Experienced Software Developer with a passion for Teacher!!
+## I'm an experienced Software Developer with a passion for Teacher!!
 
 - 🔭 I just launched my Portfolior website: [Avialable for hire!][course]!
 - 🌱 I’m currently learning all i can
