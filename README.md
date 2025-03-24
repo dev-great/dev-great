@@ -1,4 +1,4 @@
-### Hi everyone, I'm Greatness - aka [great_devxy][website] 👋
+### Hi everyone, I'm Greatness - aka [dev-great][website] 👋
 
 [![Website](https://img.shields.io/website?label=greatdev.xyz&style=for-the-badge&url=https%3A%2F%2Fgreatdev.xyz)](https://greatdev.xyz/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/great_devxy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/great_devxy)
