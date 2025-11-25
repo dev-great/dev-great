@@ -24,6 +24,7 @@
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 
 **Frontend & Mobile:**
@@ -47,9 +48,13 @@
 
 ### 📊 GitHub Stats
 
-![Greatness's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-great&show_icons=true&theme=dark&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-great&show_icons=true&theme=dark&count_private=true" alt="Greatness's GitHub stats" />
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-great&layout=compact&theme=dark)](https://github.com/dev-great)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-great&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 
 ### 🌍 Let's Connect
