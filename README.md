@@ -8,7 +8,7 @@
 
 **7+ years** building production systems. I architect scalable microservices, mentor engineering teams, and turn complex problems into elegant solutions.
 
-### 🚀 What I'm Up To
+### What I'm Up To
 
 - **Currently:** Senior Software Engineer at **Titanium Training Limited** (Dublin, Ireland), powering a cybersecurity training platform serving 6,000+ students
 - Built real-time analytics dashboards that improved student retention by **25%**
@@ -17,7 +17,7 @@
 - Currently learning **Rust** and deepening expertise in cloud-native architectures
 
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Backend & APIs:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -46,15 +46,18 @@
 ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-### 📊 GitHub Stats
+### GitHub Stats
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-great&theme=dark)](https://github.com/dev-great)
 
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-great&theme=radical&hide_border=true)
 
-### 🌍 Let's Connect
+![Profile Views](https://komarev.com/ghpvc/?username=dev-great&color=red&style=flat-square&label=Profile+Views)
+
+
+
+
+
+### Let's Connect
 
 I'm always interested in collaborating on innovative projects, discussing technical challenges, or exploring new opportunities.
 
@@ -68,10 +71,10 @@ I'm always interested in collaborating on innovative projects, discussing techni
 
 ---
 
-💡 **Fun Facts:** Gaming enthusiast, guitarist, tech explorer, and occasional TV speaker on AI and software development!
+**Fun Facts:** Gaming enthusiast, guitarist, tech explorer, and occasional TV speaker.
 
-📍 **Location:** Belgrade, Serbia  
-🌐 **Available for:** Remote opportunities, consulting, and technical speaking engagements
+**Location:** Belgrade, Serbia  
+**Available for:** Remote opportunities, consulting, and technical speaking engagements
 
 [website]: https://greamhouse.herokuapp.com/
 [twitter]: https://twitter.com/great_devxy
