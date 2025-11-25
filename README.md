@@ -6,29 +6,16 @@
 
 ## Senior Software Engineer | Full-Stack Developer | Technical Leader
 
-**7+ years** building production systems across **fintech, edutech, and e-commerce** in Nigeria, Ireland, and the United States. I architect scalable microservices, mentor engineering teams, and turn complex problems into elegant solutions.
+**7+ years** building production systems. I architect scalable microservices, mentor engineering teams, and turn complex problems into elegant solutions.
 
 ### 🚀 What I'm Up To
 
-- 🏗️ **Currently:** Senior Software Engineer at **Titanium Training Limited** (Dublin, Ireland), powering a cybersecurity training platform serving 6,000+ students
-- 📊 Built real-time analytics dashboards that improved student retention by **25%**
-- 💰 Co-founded **Thurisa Labs** and raised **$100K** in pre-seed funding
-- 🎓 Pursuing MBA at Miva Open University while continuously expanding my technical stack
-- 🦀 Currently learning **Rust** and deepening expertise in cloud-native architectures
+- **Currently:** Senior Software Engineer at **Titanium Training Limited** (Dublin, Ireland), powering a cybersecurity training platform serving 6,000+ students
+- Built real-time analytics dashboards that improved student retention by **25%**
+- Co-founded **Thurisa Labs** and raised **$100K** in pre-seed funding
+- Pursuing MBA at Miva Open University while continuously expanding my technical stack
+- Currently learning **Rust** and deepening expertise in cloud-native architectures
 
-### 💼 Career Highlights
-
-**Impact-Driven Results:**
-- Reduced search response times by **40%** through Elasticsearch and Redis optimization
-- Decreased post-deployment bugs by **80%** via comprehensive testing strategies
-- Enhanced application performance by **40%** through targeted optimization
-- Led technical strategy for fintech platform handling thousands of daily transactions
-
-**Leadership & Innovation:**
-- Mentored junior engineers and led cross-functional teams across multiple countries
-- Architected microservices REST APIs supporting subscriptions, assignments, and student tracking
-- Integrated payment gateways, banking APIs, and built community-driven platforms
-- Featured as guest speaker on **NTA Channel 5** (national television) discussing AI and software development
 
 ### 🛠️ Tech Stack
 
@@ -64,12 +51,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-great&layout=compact&theme=dark)](https://github.com/dev-great)
 
-### 🎯 Featured Project
-
-**Tawk Tools (2023)** - All-in-one creator platform for freelancers
-- Built scalable backend with Python & AWS
-- Real-time chat, social media scheduling, invoicing, and analytics
-- Microservices architecture with REST APIs
 
 ### 🌍 Let's Connect
 
@@ -87,7 +68,7 @@ I'm always interested in collaborating on innovative projects, discussing techni
 
 💡 **Fun Facts:** Gaming enthusiast, guitarist, tech explorer, and occasional TV speaker on AI and software development!
 
-📍 **Location:** Lagos, Nigeria  
+📍 **Location:** Belgrade, Serbia  
 🌐 **Available for:** Remote opportunities, consulting, and technical speaking engagements
 
 [website]: https://greamhouse.herokuapp.com/
